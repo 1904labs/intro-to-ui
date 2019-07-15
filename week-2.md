@@ -12,4 +12,5 @@
 
 ### Learn by Doing
 - Move inline CSS to external file for project
+- Improve project layout using external CSS techniques learned
     
